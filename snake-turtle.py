@@ -8,7 +8,7 @@ import random as r
 w = t.Screen()
 w.setup(800, 600)
 w.bgcolor("white")
-w.title("Snake V2")
+w.title("贪吃蛇666 Snake V2")
 w.tracer(0)
 w.listen()
 
